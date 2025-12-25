@@ -1,0 +1,22 @@
+{
+    "name": "Digital Dynamo - Ιωάννης Νεκτάριος Κουνουπάς",
+    "short_name": "Digital Dynamo",
+    "description": "Ιωάννης Νεκτάριος Κουνουπάς - CEO Digital Dynamo | Full Stack Developer | EA Expert",
+    "icons": [
+        {
+            "src": "https://digitaldynamo.gr/images/digitaldynamologo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/digitaldynamologo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#1e3a8a",
+    "background_color": "#ffffff"
+}
